@@ -1,4 +1,4 @@
-# CAD-Tool-for-STA-using-TCL-Tk-C
+# CAD-Tool-for-STA-using-TCL-Tk-and-C
 
 This Library contains a project based on designing a CAD Tool using TCL/Tk programming and Programming C to find out Static Timing Analysis based on user inputs.
 
