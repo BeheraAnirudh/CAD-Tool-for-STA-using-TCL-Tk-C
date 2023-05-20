@@ -1,0 +1,17 @@
+
+
+Final Results:
+Nodes      	Arrival      	Required       	Slack
+ G  		 6   		   11   		 5
+ I  		 13   		   13   		 0
+ A  		 6   		   6   		 0
+ B  		 10   		   10   		 0
+ D  		 8   		   15   		 7
+ H  		 16   		   21   		 5
+ K  		 17   		   17   		 0
+ J  		 19   		   23   		 4
+ C  		 17   		   17   		 0
+ L  		 23   		   23   		 0
+ E  		 12   		   19   		 7
+ M  		 29   		   29   		 0
+ F  		 22   		   29   		 7
