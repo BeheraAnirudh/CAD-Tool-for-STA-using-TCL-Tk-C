@@ -12,7 +12,7 @@ CAD Tool folder contains modified TCL program which gives the GUI structure, whe
 After exicuting the given inputs i got, Arrival time, Required time, Slack value with respect to their nodes which are then shown in the GUI window. Screenshorts are attached for reference.
 
 
-# TCL/TK IDE and C-program IDE is required for exicution.
+# TCL/TK IDE and C-program IDE is required for execution.
 
 
 Encouraged to use this work for self education but unethical practices like, copy or spreding this work is strictly not allowed.
